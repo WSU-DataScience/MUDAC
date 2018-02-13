@@ -1,4 +1,4 @@
-baseurl: "https://wsu-datascience.github.io/MUDAC/"
+baseurl: "http://mudac.org"
 title: "Midwest Undergraduate Data Analytics Competition"
 canonifyurls: true
 theme: "hugo-conference"
