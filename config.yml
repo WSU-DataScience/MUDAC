@@ -1,4 +1,4 @@
-baseurl: "https://example.org/"
+baseurl: "https://wsu-datascience.github.io/MUDAC/"
 title: "Midwest Undergraduate Data Analytics Competition"
 canonifyurls: true
 theme: "hugo-conference"

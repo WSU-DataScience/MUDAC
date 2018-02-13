@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Midwest Undergraduate Data Analytics Competition</title>
-    <link>https://example.org/</link>
+    <link>https://wsu-datascience.github.io/MUDAC/</link>
     <description>Recent content on Midwest Undergraduate Data Analytics Competition</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wsu-datascience.github.io/MUDAC/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
