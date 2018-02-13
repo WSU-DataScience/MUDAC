@@ -26,7 +26,7 @@ params:
     #- speakers
     - schedule
       #- sponsors
-      # - partners
+    - partners
     #- contact
 
   # Titles which you can translate to other languages
@@ -57,12 +57,15 @@ params:
 
   # List of Partners
   Partners:
-    - name: "Hugo"
-      logo: "/img/hugo.jpg"
-      url: "https://gohugo.io"
-    - name: "BrazilJS"
-      logo: "/img/partner.png"
-      url: "http://braziljs.org"
+    - name: "Winona State University"
+      logo: "/img/WSU.PNG"
+      url: "https://winona.edu"
+    - name: "MinneAnalytics"
+      logo: "/img/MinneAnalytics.JPG"
+      url: "http://minneanalytics.org/"
+    - name: "Minnesota Wild"
+      logo: "/img/team-30-light.svg"
+      url: "https://www.nhl.com/wild"
 
   # The entire schedule
   Schedule:
