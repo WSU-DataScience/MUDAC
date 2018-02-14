@@ -1,19 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   
   <url>
-    <loc>http://mudac.org/categories/</loc>
+    <loc>http://mudac.org/#about</loc>
+    <lastmod>2018-02-13T15:39:03-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mudac.org/#registration</loc>
+    <lastmod>2018-02-13T15:07:19-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mudac.org/#schedule</loc>
+    <lastmod>2018-02-13T14:51:52-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mudac.org/#faq</loc>
+    <lastmod>2018-02-13T13:38:50-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mudac.org/#rules</loc>
+    <lastmod>2018-02-13T10:00:15-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mudac.org/#</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mudac.org/</loc>
+    <loc>http://mudac.org/#</loc>
+    <lastmod>2018-02-13T15:39:03-06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mudac.org/tags/</loc>
+    <loc>http://mudac.org/#</loc>
     <priority>0</priority>
   </url>
   
