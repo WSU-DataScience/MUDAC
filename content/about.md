@@ -12,7 +12,10 @@ The Seventh Annual Midwest Undergraduate Data Analytics Competition (MUDAC) is A
 
 This competition is dedicated to enhancing the education of undergraduates who will soon be entering the data analytics profession. MUDAC allows participants to showcase their analytical talent and promotes professional development.
 
-This event brings together undergraduates from many different colleges and universities around the Midwest. This year we expect 150 students, academic advisors, working professionals, and volunteers from our profession. Participants spend 24 hours working on a data analytics problem provided by Aeon.
+This event brings together undergraduates from many different colleges and
+universities around the Midwest. This year we expect 150 students, academic
+advisors, working professionals, and volunteers from our profession.
+Participants spend 24 hours working on a data analytics problem.
 
 # Analytical Judges Needed
 

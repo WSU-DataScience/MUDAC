@@ -15,7 +15,7 @@ Time | Schedule
 6:00 PM | Dinner / Panel Discussion
 7:30 PM | Competition Resumes
 
-## Sunday April 2
+## Sunday April 8
 
 Time | Schedule
 --- | ---
