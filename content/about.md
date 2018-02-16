@@ -8,7 +8,7 @@ draft: false
 
 # Get involved at MUDAC 2018
 
-The Seventh Annual Midwest Undergraduate Data Analytics Competition (MUDAC) is April 7-8 at Winona State University. MUDAC is a collaborative effort between Winona State University, MinneAnalytics and the Minnesota Wild—this year’s data sponsor.
+The Seventh Annual Midwest Undergraduate Data Analytics Competition (MUDAC) is April 7-8 at Winona State University. MUDAC is a collaborative effort between Winona State University, MinneAnalytics and this year’s data sponsor (preliminarily the Minnesota Wild).
 
 This competition is dedicated to enhancing the education of undergraduates who will soon be entering the data analytics profession. MUDAC allows participants to showcase their analytical talent and promotes professional development.
 
@@ -16,11 +16,11 @@ This event brings together undergraduates from many different colleges and unive
 
 # Analytical Judges Needed
 
-MUDAC is in need of analytical professionals to assist in the judging of competition outcomes. Judges are needed on Sunday, April 8 from 10:00 a.m.–3:30 p.m. on the campus of Winona State University in Winona, MN. Register here 
+MUDAC is in need of analytical professionals to assist in the judging of competition outcomes. Judges are needed on Sunday, April 8 from 9:30 a.m.–3:30 p.m. on the campus of Winona State University in Winona, MN.
 
 # Employers Sought for MUDAC Job Fair
 
 The MUDAC organizing committee invites you to participate in the MUDAC 2018 Job/Internship Fair on Sunday, April 8 from 11 a.m.– 3:30 p.m. MUDAC participants represent many of the strongest students from each university, and all have a quantitative background.
 
-Employers who attend the job fair will connect with these soon-to-be-graduates and their academic advisors. Employers will have electronic access to all resumes submitted by the MUDAC participants. There is no fee for employers to attend this job fair. Register here
+Employers who attend the job fair will connect with these soon-to-be-graduates and their academic advisors. Employers will have electronic access to all resumes submitted by the MUDAC participants. There is no fee for employers to attend this job fair.
 

@@ -16,11 +16,14 @@ For MUDAC 2018, a registration fee of $50 per team will be imposed to help cover
 
 #### How do I register my team(s)?
 
-Information on how to register for the competition can be found at www.mudac.org/registration. 
+Initial registration will happen through EventBright (see the registration page) by the Team Advisor/Captain.  Further registration information
+(team participants, student contact information, etc.) will be requested at a
+later date.  Advisors/Captains should keep an eye out for a subsequent
+registration email.
 
 #### Is there a registration deadline?
 
-Yes. For MUDAC 2018, all participants must register and pay the registration fee by Friday, March 30. Due to space limitations, we may close registration at an earlier time.
+Yes. For MUDAC 2018, all participants must register and pay the registration fee by Wednesday, March 28. Due to space limitations, we may close registration at an earlier time.
 
 #### Is there a limit on how many teams a school can enter?
 
